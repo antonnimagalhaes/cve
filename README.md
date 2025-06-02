@@ -200,4 +200,4 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para d
 
 ## 📞 Suporte
 
-Para suporte, entre em contato através do email: suporte@vendaestrategica.com.br
+Para suporte, entre em contato através do email: suporte@comunidadevendaestrategica.com
